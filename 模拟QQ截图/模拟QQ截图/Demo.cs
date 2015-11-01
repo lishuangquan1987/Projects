@@ -12,7 +12,7 @@ namespace Capture_LikeQQ
 {
     public partial class Demo : Form
     {
-        
+        //
         public Demo()
         {
             InitializeComponent();
